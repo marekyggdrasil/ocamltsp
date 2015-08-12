@@ -19,5 +19,3 @@ from third to first and from fourth to second.
 
 Software was tested on instances micro and medium, results were compared
 with Concorde TSP solver and matched.
-
-© Marek Mateusz Narozniak, 2015.
